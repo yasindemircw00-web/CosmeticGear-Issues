@@ -31,6 +31,14 @@ Please:
 - Minecraft 1.20.1
 - Minecraft Forge
 - Optional Curios integration
+- 
+## API Documentation
+
+Cosmetic Gear provides a public API for other Minecraft Forge mods to integrate with its cosmetic equipment and visibility systems.
+
+The API supports server-side equipment management, cosmetic and real armor visibility controls, Forge events, and client-side rendering integration.
+
+**[View the Cosmetic Gear API Documentation](https://github.com/yasindemircw00-web/CosmeticGear-Issues/blob/main/API.md)**
 
 ## Important
 
